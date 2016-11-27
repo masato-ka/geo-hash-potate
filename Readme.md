@@ -24,7 +24,7 @@ result is "xn76urw"
 Decode from GeoHash
 
 ~~~~
-Map<String,Double> result = GeoHash.getGeoHashDecoder.decodeFromGeoHash(xn76urw)
+Map<String,Double> result = GeoHash.getGeoHashDecoder.decodeFromGeoHash("xn76urw")
 System.out.println("latitude:" + result.get("latitude") + " longitude:" + result.get("longitude") );
 ~~~~
 
@@ -32,7 +32,7 @@ latitude: 35.68153381347656 longitude:139.76600646972656
 
 ## Licence
 
-MIT LICENCE
+[MIT LICENCE](https://github.com/masato-ka/geo-hash-potate/blob/master/LICENSE.txt)
 
 The library do not depends other library.
 

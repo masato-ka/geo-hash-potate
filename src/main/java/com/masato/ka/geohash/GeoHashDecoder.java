@@ -1,4 +1,11 @@
 package com.masato.ka.geohash;
+/***********************************
+ * Copyright 2016 Masato Kawamura
+ * @Author masato-ka
+ * 
+ * This software is MIT LICENSE
+ * 
+ ***********************************/
 
 import java.util.HashMap;
 import java.util.Map;
